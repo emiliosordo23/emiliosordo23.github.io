@@ -5,3 +5,7 @@
 Tecate Pa'l Norte Media Platform/SalaPrensa Site Images PDFs/
 Tecate Pa'l Norte Media Platform/*.jpg
 Tecate Pa'l Norte Media Platform/*.JPG
+
+# FIFA: heavy source photo kept locally only (site uses screens/cover.jpg)
+Fifa Fan Fest Media Site/*.JPEG
+Fifa Fan Fest Media Site/*.jpeg
